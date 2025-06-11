@@ -85,4 +85,5 @@ let pontosGestao = 0;
 
 
 
+![Uploading Captura de tela 2025-06-11 153028.png…]()
 
