@@ -86,4 +86,3 @@ let pontosGestao = 0;
 
 
 
-
