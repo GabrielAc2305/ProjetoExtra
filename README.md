@@ -55,7 +55,6 @@ O curso técnico ideal oferecido pelo colégio.
 * Use variáveis contadoras para acompanhar os pontos de cada perfil
 * Exemplo:
 javascript
-CopiarEditar
 let pontosTecnologia = 0;
 
 let pontosSaude = 0;
