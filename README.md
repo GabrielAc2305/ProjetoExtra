@@ -74,8 +74,7 @@ let pontosGestao = 0;
 
 
 
-
-
+![mob_psycho_100_ii_ep12_-_07](https://github.com/user-attachments/assets/7a742ea7-0bfa-41dd-bedc-f5ffd1377bbd)
 
 
 
